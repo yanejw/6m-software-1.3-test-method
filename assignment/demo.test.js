@@ -27,3 +27,5 @@ describe("Demo", ()=>{
     })
 })
 //So when the command `npm run test` is run, it calls the test suite and runs the individual tests.
+
+//in assignment folder -> npm i to install; then npm run test to run the test;
